@@ -1,5 +1,5 @@
 .container {
-  background-color: color-mix(in srgb, transparent, white 85%);
+  background-color: color-mix(in srgb, transparent, rgb(246, 246, 246) 95%);
   justify-content: start;
   justify-items: start;
   text-align: justify;
