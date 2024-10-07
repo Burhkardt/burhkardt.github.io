@@ -1,8 +1,6 @@
 import "./Home.css";
 import React from "react";
-import Imagem1 from "../../assets/Imagem 1.png";
-import Imagem2 from "../../assets/Imagem 2.png";
-import Imagem3 from "../../assets/Imagem 3.png";
+import imagemtemp from "../../assets/imagemplaceholder.png";
 export default function Home() {
   return (
     <body>
@@ -12,9 +10,7 @@ export default function Home() {
       >
         Transtorno do espectro autista (TEA)
       </h1>
-      <img src={Imagem1} alt="Temp" />
-      <img src={Imagem2} alt="Temp" />
-      <img src={Imagem3} alt="Temp" />
+      <img src={imagemtemp} alt="Temp" />
       <h2 className="texto">
         <text>
           <p>
