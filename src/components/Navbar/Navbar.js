@@ -10,7 +10,7 @@ export default function Navb() {
         <a href="Sobre">Sobre nós</a>
       </li>
       <li>
-        <a href="Links">Links</a>
+        <a href="Links"></a>
       </li>
       <li>
         <a href="#"></a>
